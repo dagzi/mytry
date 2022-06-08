@@ -1,0 +1,13 @@
+#!/bin/bash
+#---Author: Fiao
+#---Date: Jun 2022
+# This is my first try repo
+
+
+a=Fiao
+b=Dagah
+c="Linux-Cloud-Devops"
+
+echo "My first name is $a"
+echo "My last name is $b"
+echo "my passions are $c"
